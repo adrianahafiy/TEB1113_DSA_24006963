@@ -11,7 +11,7 @@
 | Date       | Lab | Tasks                                                                                                                                                    |
 |------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 28/05/2025 | 1   | 🔹 [Array Operations](./24006963_Adrianahafiy_L1/24006963_Adrianahafiy_L1.cpp)                                                                                                   |
-| 04/06/2025 | 2   | 🔹 [Easy Task](./ADS_L2/24006970_ADS_L2_easy.cpp)  <br> 🔹 [Medium Task](./ADS_L2/24006970_ADS_L2_Medium.cpp) <br> 🔹 [Hard Task](./ADS_L2/24006970_ADS_L2_Hard.cpp) |
-| 11/06/2025 | 3   | 🔹 [Singly Linked List](./ADS_L3/24006970_ADS_L3_SinglyLinkedList.cpp) <br> 🔹 [Doubly Linked List](./ADS_L3/24006970_ADS_L3_DoublyLinkedList/24006970_ADS_L3_DoublyLinkedList/24006970_ADS_L3_DoublyLinkedList.cpp) |
+| 04/06/2025 | 2   | 🔹 [Easy Task](./24006963_Adrianahafiy_L2/24006963_Adrianahafiy_L2_Easy/24006963_Adrianahafiy_L2_Easy.cpp)  <br> 🔹 [Medium Task](./24006963_Adrianahafiy_L2/24006963_Adrianahafiy_L2_Medium/24006963_Adrianahafiy_L2_Medium.cpp) <br> 🔹 [Hard Task](./24006963_Adrianahafiy_L2/24006963_Adrianahafiy_L2_Hard/24006963_Adrianahafiy_L2_Hard.cpp) |
+| 11/06/2025 | 3   | 🔹 [Singly Linked List](./24006963_Adrianahafiy_L3/24006963_Adrianahafiy_L3_Singly/24006963_Adrianahafiy_L3_Singly.cpp) <br> 🔹 [Doubly Linked List](./24006963_Adrianahafiy_L3/24006963_Adrianahafiy_L3_Doubly/24006963_Adrianahafiy_L3_Doubly.cpp) |
 
 ---
