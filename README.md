@@ -15,5 +15,7 @@
 | 11/06/2025 | 3   | 🔹 [Singly Linked List](./24006963_Adrianahafiy_L3/24006963_Adrianahafiy_L3_Singly/24006963_Adrianahafiy_L3_Singly.cpp) <br> 🔹 [Doubly Linked List](./24006963_Adrianahafiy_L3/24006963_Adrianahafiy_L3_Doubly/24006963_Adrianahafiy_L3_Doubly.cpp) |
 | 18/06/2025 | 4   | 🔹 [Circular Linked List](./24006963_Adrianahafiy_L4/24006963_Adrianahafiy_L4.cpp) |
 | 25/06/2025 | 5   | 🔹 [Stack](./24006963_Adrianahafiy_L5/24006963_Adrianahafiy_L5.cpp) |
+| 02/07/2025 | 6   | 🔹 [Queue](./24006963_Adrianahafiy_L6/24006963_Adrianahafiy_L6_Queue/24006963_Adrianahafiy_L6_Queue.cpp) <br> 🔹 [Circular Queue](./24006963_Adrianahafiy_L6/24006963_Adrianahafiy_L6_CircularQueue/24006963_Adrianahafiy_L6_CircularQueue.cpp) |
+
 
 ---
